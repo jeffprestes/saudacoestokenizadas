@@ -1,0 +1,16 @@
+{
+  "description": "Uma alegre e gentil saudação",
+  "external_url": "https://jeffprestes.github.io/saudacoestokenizadas/nft/metadata/saudacao.json", 
+  "image": "https://jeffprestes.github.io/saudacoestokenizadas/nft/images/waving-hand_1f44b.png", 
+  "name": "Uma Saudação Tokenizada",
+  "attributes": [
+    {
+      "trait_type": "Nível de Alegria", 
+      "value": "alto"
+    },
+    {
+      "trait_type": "Número de palmas", 
+      "value": "2"
+    }
+  ]
+} 
